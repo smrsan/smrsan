@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
 	<a href="https://github.com/smrsan/" target="_blank">
 		<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Me (When coding in the office...)"/>
